@@ -1,10 +1,13 @@
 /*Question 6 : Write a program SpringSeason that takes two int values 
 month and day from the command line and prints “Its a Spring Season” otherwise prints “Not a Spring Season”  */
 
+//Import the Scanner class
 import java.util.Scanner;
 
+//create a springSeason class
 public class SpringSeason {
     
+    //create a method to check if its spring or not
     public static boolean checkSpring(String month, int date){
         
          if(month=="MARCH" && date >=20 && date<=31){
@@ -21,16 +24,17 @@ public class SpringSeason {
 
     }
     public static void main(String[] args) {
-        
+        //create an instance of scanner class
         Scanner sc = new Scanner(System.in);
+        //take user input for month
         System.out.println("Enter month name");
         String month = sc.next();
-        
+        //take user input for date
         System.out.println("Enter date");
         int date = sc.nextInt();
-
+        //call the function and find if its spring
         boolean result = checkSpring(month.toUpperCase(),date);
-
+        //print the result
         if(result == true ){
             System.out.println("Its a Spring Season ");
         }else{
