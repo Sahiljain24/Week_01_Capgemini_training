@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 /*Question 10:Write a program to convert the complete text to lowercase and compare the results
  */
 import java.util.Scanner;

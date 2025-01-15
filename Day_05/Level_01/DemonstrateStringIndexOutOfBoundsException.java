@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 /*question 5 :Write a program to demonstrate StringIndexOutOfBoundsException
  */
 import java.util.Scanner;

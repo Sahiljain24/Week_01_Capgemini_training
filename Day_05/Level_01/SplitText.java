@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 /*Question 11:Write a program to split the text into words and return the words along with their lengths in a 2D array */
 import java.util.Scanner;
 

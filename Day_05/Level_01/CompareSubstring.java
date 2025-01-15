@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 
 /*Question 2 : Write a program to create a substring from a String using 
 the charAt() method. Also, use the String built-in method substring() to find the substring of the text. Finally Compare the the two strings and display the results

@@ -1,7 +1,7 @@
 /*Question 4 : Write a program to demonstrate NullPointerException
  */
 
- package Day_05;
+ package Day_05.Level_01;
  public class DemonstrateNullPointerException {
 
     // Create a method to generate and throw a NullPointerException

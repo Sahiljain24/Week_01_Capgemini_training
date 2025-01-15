@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 /*Question 6 : Write a program to demonstrate IllegalArgumentException. 
  */
 
@@ -55,3 +55,4 @@ public class DemonstrateIllegalArgumentException {
         handleGeneratedException(text);
     }
     
+}

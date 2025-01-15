@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 
 
 /*QUestion 1 : Write a program to compare two strings using the charAt() method and check the result with the built-in String equals() method

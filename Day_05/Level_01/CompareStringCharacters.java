@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 
 /*Question 3: Write a program to return all the characters in a string using the user-defined method,  compare the result with the String built-in toCharArray() method, and display the result
  */

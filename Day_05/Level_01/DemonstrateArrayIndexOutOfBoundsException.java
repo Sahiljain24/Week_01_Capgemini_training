@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 /*question 8: Write a program to demonstrate ArrayIndexOutOfBoundsException
  */
 // Import the Scanner class to take user input

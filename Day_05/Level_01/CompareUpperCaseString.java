@@ -1,4 +1,4 @@
-package Day_05;
+package Day_05.Level_01;
 
 /*question 9: Write a program to convert the complete text to uppercase and compare the results
  */
